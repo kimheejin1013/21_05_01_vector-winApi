@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#ignore Debug folder
+[Dd]ebug
+/[Dd]ebug/
+
+#ignore vs suo info
+.vs
+*.vs
